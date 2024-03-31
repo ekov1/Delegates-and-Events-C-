@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\C#\\DelegatesAndEventsCSharp\\Delegates and Events\\01. Delegates\\01. Delegates.csproj",
-      "projectName": "01. Delegates",
-      "projectPath": "C:\\C#\\DelegatesAndEventsCSharp\\Delegates and Events\\01. Delegates\\01. Delegates.csproj",
+      "projectUniqueName": "C:\\C#\\DelegatesAndEventsCSharp\\Delegates and Events\\03. MulticastDelegates\\03. MulticastDelegates.csproj",
+      "projectName": "03. MulticastDelegates",
+      "projectPath": "C:\\C#\\DelegatesAndEventsCSharp\\Delegates and Events\\03. MulticastDelegates\\03. MulticastDelegates.csproj",
       "packagesPath": "C:\\Users\\Samurai\\.nuget\\packages\\",
-      "outputPath": "C:\\C#\\DelegatesAndEventsCSharp\\Delegates and Events\\01. Delegates\\obj\\",
+      "outputPath": "C:\\C#\\DelegatesAndEventsCSharp\\Delegates and Events\\03. MulticastDelegates\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Samurai\\AppData\\Roaming\\NuGet\\NuGet.Config",
