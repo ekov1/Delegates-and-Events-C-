@@ -1,0 +1,14 @@
+C:\C#\DelegatesAndEventsCSharp\Delegates and Events\03. MulticastDelegates\bin\Debug\net6.0\03. MulticastDelegates.exe
+C:\C#\DelegatesAndEventsCSharp\Delegates and Events\03. MulticastDelegates\bin\Debug\net6.0\03. MulticastDelegates.deps.json
+C:\C#\DelegatesAndEventsCSharp\Delegates and Events\03. MulticastDelegates\bin\Debug\net6.0\03. MulticastDelegates.runtimeconfig.json
+C:\C#\DelegatesAndEventsCSharp\Delegates and Events\03. MulticastDelegates\bin\Debug\net6.0\03. MulticastDelegates.dll
+C:\C#\DelegatesAndEventsCSharp\Delegates and Events\03. MulticastDelegates\bin\Debug\net6.0\03. MulticastDelegates.pdb
+C:\C#\DelegatesAndEventsCSharp\Delegates and Events\03. MulticastDelegates\obj\Debug\net6.0\03. MulticastDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\DelegatesAndEventsCSharp\Delegates and Events\03. MulticastDelegates\obj\Debug\net6.0\03. MulticastDelegates.AssemblyInfoInputs.cache
+C:\C#\DelegatesAndEventsCSharp\Delegates and Events\03. MulticastDelegates\obj\Debug\net6.0\03. MulticastDelegates.AssemblyInfo.cs
+C:\C#\DelegatesAndEventsCSharp\Delegates and Events\03. MulticastDelegates\obj\Debug\net6.0\03. MulticastDelegates.csproj.CoreCompileInputs.cache
+C:\C#\DelegatesAndEventsCSharp\Delegates and Events\03. MulticastDelegates\obj\Debug\net6.0\03. MulticastDelegates.dll
+C:\C#\DelegatesAndEventsCSharp\Delegates and Events\03. MulticastDelegates\obj\Debug\net6.0\refint\03. MulticastDelegates.dll
+C:\C#\DelegatesAndEventsCSharp\Delegates and Events\03. MulticastDelegates\obj\Debug\net6.0\03. MulticastDelegates.pdb
+C:\C#\DelegatesAndEventsCSharp\Delegates and Events\03. MulticastDelegates\obj\Debug\net6.0\03. MulticastDelegates.genruntimeconfig.cache
+C:\C#\DelegatesAndEventsCSharp\Delegates and Events\03. MulticastDelegates\obj\Debug\net6.0\ref\03. MulticastDelegates.dll
