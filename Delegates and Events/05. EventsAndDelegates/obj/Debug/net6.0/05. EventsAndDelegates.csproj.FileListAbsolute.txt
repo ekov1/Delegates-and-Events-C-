@@ -1,0 +1,14 @@
+C:\C#\DelegatesAndEventsCSharp\Delegates and Events\05. EventsAndDelegates\bin\Debug\net6.0\05. EventsAndDelegates.exe
+C:\C#\DelegatesAndEventsCSharp\Delegates and Events\05. EventsAndDelegates\bin\Debug\net6.0\05. EventsAndDelegates.deps.json
+C:\C#\DelegatesAndEventsCSharp\Delegates and Events\05. EventsAndDelegates\bin\Debug\net6.0\05. EventsAndDelegates.runtimeconfig.json
+C:\C#\DelegatesAndEventsCSharp\Delegates and Events\05. EventsAndDelegates\bin\Debug\net6.0\05. EventsAndDelegates.dll
+C:\C#\DelegatesAndEventsCSharp\Delegates and Events\05. EventsAndDelegates\bin\Debug\net6.0\05. EventsAndDelegates.pdb
+C:\C#\DelegatesAndEventsCSharp\Delegates and Events\05. EventsAndDelegates\obj\Debug\net6.0\05. EventsAndDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\DelegatesAndEventsCSharp\Delegates and Events\05. EventsAndDelegates\obj\Debug\net6.0\05. EventsAndDelegates.AssemblyInfoInputs.cache
+C:\C#\DelegatesAndEventsCSharp\Delegates and Events\05. EventsAndDelegates\obj\Debug\net6.0\05. EventsAndDelegates.AssemblyInfo.cs
+C:\C#\DelegatesAndEventsCSharp\Delegates and Events\05. EventsAndDelegates\obj\Debug\net6.0\05. EventsAndDelegates.csproj.CoreCompileInputs.cache
+C:\C#\DelegatesAndEventsCSharp\Delegates and Events\05. EventsAndDelegates\obj\Debug\net6.0\05. EventsAndDelegates.dll
+C:\C#\DelegatesAndEventsCSharp\Delegates and Events\05. EventsAndDelegates\obj\Debug\net6.0\refint\05. EventsAndDelegates.dll
+C:\C#\DelegatesAndEventsCSharp\Delegates and Events\05. EventsAndDelegates\obj\Debug\net6.0\05. EventsAndDelegates.pdb
+C:\C#\DelegatesAndEventsCSharp\Delegates and Events\05. EventsAndDelegates\obj\Debug\net6.0\05. EventsAndDelegates.genruntimeconfig.cache
+C:\C#\DelegatesAndEventsCSharp\Delegates and Events\05. EventsAndDelegates\obj\Debug\net6.0\ref\05. EventsAndDelegates.dll
