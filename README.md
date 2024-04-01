@@ -12,7 +12,7 @@
     /// and when you do so, you pass in the function name as a parameter to the delagate constructor,
     /// and it is this function the delegate will point to.
 
-    # Multicast Delegates
+  <h2>  # Multicast Delegates </h2>
     /// 
     /// A Multicast delegate is a delegate that references to more than one function.
     /// When you invoke a multicast delegate, all the functions the delegate is pointing to,
@@ -35,7 +35,7 @@
     /// Multicast delegate makes implementation of observer design pattern very simple.
     /// Observer pattern is also called publish/subscribe pattern
 
-    # Distingushing Delegates and Events
+  <h2>  # Distingushing Delegates and Events </h2>
     
     1. Events and delegates are similar.
     2. Events are built using the language support for delegates.
