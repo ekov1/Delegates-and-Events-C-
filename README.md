@@ -46,7 +46,7 @@
     6. Same syntax for raising event and calling a delegate.
     7. Both support same syntax for Invoke() method with use of ? operator.
 
-    # Listening to events is optional
+  <h2>    # Listening to events is optional </h2>
 
     1. If your code must call the code supplied by the subscriber, use a design based on delegates when you need to implement a callback.
     2. If your code can complete all its work without calling any subscribers, use a design based on events.
