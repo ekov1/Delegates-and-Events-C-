@@ -27,6 +27,7 @@
     internal class Delegates
     {
         public delegate void HelloFunctionDelegate(string message);
+
         public static void Main()
         {
             // A delegate is a type safe function pointer

@@ -27,7 +27,6 @@
     /// </summary>
 
     using System;
-    using System.Globalization;
 
     public delegate void SampleDelegate();
     public delegate int SampleDelegateInt();

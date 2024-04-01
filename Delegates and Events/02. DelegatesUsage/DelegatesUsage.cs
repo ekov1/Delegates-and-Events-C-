@@ -14,8 +14,6 @@
 
             Employee.PromoteEmployee(empList, isPromoteble);
             Employee.PromoteEmployee(empList, emp => emp.Experience >= 5);
-
-
         }
 
         public static bool Promote(Employee emp)
