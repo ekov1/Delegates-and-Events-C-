@@ -1,16 +1,16 @@
 <h1> DelegatesAndEventsCSharp </h1>
 
   <h2>  # What is a delegate </h2>
-  <p>  /// 
-    /// A delegate is a type safe function pointer. That is,<br> 
-    /// it holds a reference(Pointer) to a function.<br> 
-    /// <br> 
-    /// The signature of the delegate must mach the signature of the function,<br> 
-    /// the delegate points to, otherwise you will get a compiler error.<br> 
-    /// This is the reason why delegates are called as type safe function pointers.<br> 
-    /// A Delegate is similar to a class. You can create an instance of it,<br> 
-    /// and when you do so, you pass in the function name as a parameter to the delagate constructor,<br> 
-    /// and it is this function the delegate will point to.<br> 
+  <p> 
+     A delegate is a type safe function pointer. That is,<br> 
+     it holds a reference(Pointer) to a function.<br> 
+    <br> 
+     The signature of the delegate must mach the signature of the function,<br> 
+     the delegate points to, otherwise you will get a compiler error.<br> 
+     This is the reason why delegates are called as type safe function pointers.<br> 
+     A Delegate is similar to a class. You can create an instance of it,<br> 
+     and when you do so, you pass in the function name as a parameter to the delagate constructor,<br> 
+     and it is this function the delegate will point to.<br> 
     </p>
 
   <h2>  # Multicast Delegates </h2>
