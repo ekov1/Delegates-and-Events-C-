@@ -1,6 +1,6 @@
 <h1> DelegatesAndEventsCSharp </h1>
 
-    # What is a delegate
+  <h2>  # What is a delegate </h2>
     /// 
     /// A delegate is a type safe function pointer. That is,
     /// it holds a reference(Pointer) to a function.
