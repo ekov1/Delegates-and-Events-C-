@@ -36,7 +36,11 @@
      Multicast delegate makes implementation of observer design pattern very simple.<br>
      Observer pattern is also called publish/subscribe pattern<br>
 
-  <h2>  # Distingushing Delegates and Events </h2>
+<h1> Events </h1>
+1. events are a mechanism for comunication between objects
+2. events are used for building Loosley Coupled Applications
+
+  <h1>  # Distingushing Delegates and Events </h1>
     
     1. Events and delegates are similar.
     2. Events are built using the language support for delegates.
