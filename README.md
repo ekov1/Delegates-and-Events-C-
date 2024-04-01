@@ -37,7 +37,7 @@
      Observer pattern is also called publish/subscribe pattern<br>
 
 <h1> Events </h1>
-1. events are a mechanism for comunication between objects
+1. events are a mechanism for comunication between objects <br> 
 2. events are used for building Loosley Coupled Applications
 
   <h1>  # Distingushing Delegates and Events </h1>
